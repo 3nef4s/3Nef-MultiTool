@@ -27,7 +27,7 @@
 
 1. [Download source code zip]
 2. Extract zip
-3. Run `setup.bat` To open the file
+3. Run `setup.exe` To open the file
 </p>
 
 ## Disclaimer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -49,7 +49,7 @@ Be careful using this tool, I am warning you to use this tool for Education Purp
 <p align="center">
 
 ```
- 🔧 Automatic Installation -    Launch setup.bat
+ 🔧 Automatic Installation -    Launch setup.exe
  🔧 Manual Installation    -    pip install -r requirements.txt & python main.py
 ```
 </p>
