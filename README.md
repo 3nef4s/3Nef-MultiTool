@@ -1,4 +1,6 @@
-﻿ ![image](https://github.com/Xen000000/Lime-Multi-Tool/assets/157888179/5c6738b3-7e63-4f4c-91c1-567ef9e4dacb)
+![image](https://github.com/user-attachments/assets/adedec49-458c-4310-bc44-bbd1c3aab215)
+![image](https://github.com/user-attachments/assets/ac2c93ad-05fb-4a09-8a67-ee7d354d3f89)
+
 
 <h1 align="center">Lime Multi Tool 🛠️ </h1>
 <p align="center">
