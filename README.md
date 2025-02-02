@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/ac2c93ad-05fb-4a09-8a67-ee7d354d3f89)
 
 
-<h1 align="center">Lime Multi Tool 🛠️ </h1>
+<h1 align="center">3Nef Multi Tool 🛠️ </h1>
 <p align="center">
 
   <a href="https://github.com/Xen000000/DisRo-Multi-Tool/blob/main/LICENSE">
