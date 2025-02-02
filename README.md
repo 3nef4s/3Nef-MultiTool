@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/covarage-95%25-green">
   </a>
   <a href="https://github.com/Xen000000">
-    <img src="https://img.shields.io/github/repo-size/Rdmo1/Premium-Pack.svg?label=Repo%20size&style=flat-square">
+    <img src="![image](https://github.com/user-attachments/assets/29fa5fd2-d4df-43c4-bfd3-4171b4a3f451)">
   </a>
   <a href="https://github.com/Xen000000">
     <img src="https://komarev.com/ghpvc/?username=Rdmo1">
